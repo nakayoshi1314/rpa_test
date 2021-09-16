@@ -1,6 +1,6 @@
 {
   "name": "test0916",
-  "description": "空のプロジェクト",
+  "description": "ss空のプロジェクト",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.9.5]",
