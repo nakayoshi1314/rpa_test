@@ -46,7 +46,7 @@
       <AssemblyReference>System.Data.DataSetExtensions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="シーケンス" sap:VirtualizedContainerService.HintSize="272,557" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="シーケンス" sap:VirtualizedContainerService.HintSize="272,658" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -57,5 +57,6 @@
     <WriteLine DisplayName="1 行を書き込み" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_3" Text="ver3" />
     <WriteLine DisplayName="1 行を書き込み" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_4" Text="ver4" />
     <WriteLine DisplayName="1 行を書き込み" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_5" Text="ver5" />
+    <WriteLine DisplayName="1 行を書き込み" sap:VirtualizedContainerService.HintSize="230,61" sap2010:WorkflowViewState.IdRef="WriteLine_6" Text="ver5" />
   </Sequence>
 </Activity>
